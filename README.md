@@ -24,11 +24,13 @@ Producto más barato: Coca-Cola
 
 
 La solución debe cumplir con los siguientes requisitos:
+<ul>
+	<li>Diseñar una solución orientada a objetos.</li>
+	<li>La salida es por consola y exactamente como se requiere.</li>
+	<li>Usar solamente las clases provistas por Java 8..</li>
+	<li>Cargar la lista de productos en un único método. No hay ingreso por pantalla de ningún tipo.</li>
+	<li>El algoritmo usado para la impresión no tiene que depender de la cantidad o tipo de productos.</li>
+	<li>Para mostrar el mayor / menor, utilizar la interfaz Comparable.</li>
+	<li>Para imprimir por pantalla, sobrescribir el método toString()</li>
+</ul>
 
-*Diseñar una solución orientada a objetos.
-*La salida es por consola y exactamente como se requiere.
-*Usar solamente las clases provistas por Java 8..
-*Cargar la lista de productos en un único método. No hay ingreso por pantalla de ningún tipo.
-*El algoritmo usado para la impresión no tiene que depender de la cantidad o tipo de productos.
-*Para mostrar el mayor / menor, utilizar la interfaz Comparable.
-*Para imprimir por pantalla, sobrescribir el método toString()
